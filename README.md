@@ -4,4 +4,4 @@
 - Reminders are displayed on [this website](https://iniad-practice2b.herokuapp.com/) (Heroku app).
 
 
-<img src="./screenshot.png" width="40%">
+<img src="./screenshot.png" width="55%">
